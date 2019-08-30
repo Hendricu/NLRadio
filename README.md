@@ -1,4 +1,4 @@
-# Dit is een copy van Fivem Radio alle rechten naar ["Hellslicer"](https://forum.fivem.net/t/release-js-radio/52121)
+# Dit is een copy van Fivem Radio alle rechten naar [Hellslicer](https://forum.fivem.net/t/release-js-radio/52121)
 
 # FiveM Radio
 
